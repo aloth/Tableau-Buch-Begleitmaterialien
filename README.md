@@ -2,7 +2,7 @@
 
 Willkommen im offiziellen Repository für ergänzende Ressourcen zum Buch "Datenvisualisierung mit Tableau" von Alexander Loth.
 
-![Datenvisualisierung mit Tableau Buchcover](https://i0.wp.com/alexloth.com/wp-content/uploads/2021/07/Tableau-Buch-2.-Auflage-Cover-3D.png)
+![Datenvisualisierung mit Tableau Buchcover](https://alexloth.com/wp-content/uploads/2021/07/Tableau-Buch-2.-Auflage-Cover-3D.png)
 
 ## Über das Buch
 
@@ -34,7 +34,7 @@ Der Inhalt dieses Repositories ist unter der MIT-Lizenz lizenziert. Weitere Deta
 
 ## Kontakt
 
-Für Fragen zum Buch oder zu diesem Repository öffnen Sie bitte ein [Issue](https://github.com/aloth/datenvisualisierung-mit-tableau-begleitmaterialien/issues) oder kontaktieren Sie Alexander Loth über [seine Website](https://alexloth.com).
+Für Fragen zum Buch oder zu diesem Repository öffnen Sie bitte ein [Issue](https://github.com/aloth/tableau-buch-begleitmaterialien/issues) oder kontaktieren Sie Alexander Loth über [seine Website](https://alexloth.com).
 
 ---
 
