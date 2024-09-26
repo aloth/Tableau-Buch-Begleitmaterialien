@@ -1,4 +1,4 @@
-# Datenvisualisierung mit Tableau: Ergänzende begleitmaterialien
+# Datenvisualisierung mit Tableau: Ergänzende Begleitmaterialien
 
 Willkommen im offiziellen Repository für ergänzende Ressourcen zum Buch "Datenvisualisierung mit Tableau" von Alexander Loth.
 
