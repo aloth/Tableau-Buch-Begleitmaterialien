@@ -1,13 +1,15 @@
-# 📘 Datenvisualisierung mit Tableau – Offizielle Begleitmaterialien
+# Datenvisualisierung mit Tableau – Offizielle Begleitmaterialien
 
 [![Lizenz: MIT](https://img.shields.io/badge/Lizenz-MIT-blue.svg)](LICENSE)
-[![GitHub Issues](https://img.shields.io/github/issues/aloth/Tableau-Buch-Begleitmaterialien)](https://github.com/aloth/Tableau-Buch-Begleitmaterialien/issues)
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/DasBuch?style=social)](https://x.com/DasBuch)
+[![Website zum Buch](https://img.shields.io/badge/Companion%20Site-alexloth.com-blue)](https://alexloth.com/tableau-buch)
+[![Follow on X](https://img.shields.io/twitter/follow/DasBuch?style=social)](https://x.com/DasBuch)
 
 > **Offizielle Beispieldateien, Datensätze und Ressourcen zum Bestseller *Datenvisualisierung mit Tableau*.**   
 > Alles, was Sie brauchen, um die Konzepte aus dem Buch direkt auszuprobieren.
 
-![Buchcover: Datenvisualisierung mit Tableau](https://alexloth.com/wp-content/uploads/2021/07/Tableau-Buch-2.-Auflage-Cover-3D.png)
+<p align="center">
+  <img src="https://alexloth.com/wp-content/uploads/2021/07/Tableau-Buch-2.-Auflage-Cover-3D.png" alt="Book cover: Datenvisualisierung mit Tableau by Alexander Loth" width="420" />
+</p>
 
 ---
 
@@ -79,14 +81,15 @@ Fragen, Fehler oder Ideen? Ihre Mithilfe ist willkommen!
 Falls Sie Inhalte aus *Datenvisualisierung mit Tableau* in wissenschaftlichen Arbeiten verwenden, nutzen Sie bitte folgenden BibTeX-Eintrag:
 
 ```bibtex
-@book{Loth2021,
-  author    = {Alexander Loth},
-  title     = {Datenvisualisierung mit Tableau},
-  publisher = {mitp},
-  year      = {2021},
-  edition   = {2},
-  isbn      = {978-3-7475-0389-8},
-  url       = {https://alexloth.com/tableau-buch}
+@book{loth_2021_tableau,
+	title        = {Datenvisualisierung mit Tableau: Inklusive Datenaufbereitung mit Tableau Prep Builder},
+	shorttitle   = {Datenvisualisierung mit Tableau},
+	author       = {Loth, Alexander},
+	year         = {2021},
+	publisher    = {MITP-Verlags GmbH \& Co. KG},
+	isbn         = {978-3-7475-0389-8},
+	url          = {https://alexloth.com/tableau-buch/},
+	edition      = {2}
 }
 ````
 
@@ -94,10 +97,12 @@ Falls Sie Inhalte aus *Datenvisualisierung mit Tableau* in wissenschaftlichen Ar
 
 ## 👤 Über den Autor
 
-**Alexander Loth** ist Data Scientist und Digital Strategist mit über 14 Jahren Erfahrung in KI, Data & Cloud.
-Er berät Unternehmen und Organisationen bei ihrer digitalen Transformation und ist Autor mehrerer Bestseller.
+**Alexander Loth** ist Data Scientist und Digital Strategist mit über 15 Jahren Erfahrung in KI, Data & Cloud.
+Er berät Unternehmen und Organisationen bei ihrer digitalen Transformation und ist Autor mehrerer Fachbücher.
 
-🌐 [Website](https://alexloth.com/) · 💼 [LinkedIn](https://www.linkedin.com/in/aloth/) · ✖️ [X](https://x.com/xlth) · 📊 [Tableau Public](https://public.tableau.com/profile/alexander.loth#!/)
+[![Website](https://img.shields.io/badge/Website-alexloth.com-blue?style=flat-square)](https://alexloth.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aloth-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aloth/)
+[![X (Twitter)](https://img.shields.io/badge/Follow-@xlth-black?style=flat-square&logo=x)](https://x.com/xlth)
 
 ---
 
