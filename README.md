@@ -1,7 +1,7 @@
 # Datenvisualisierung mit Tableau – Offizielle Begleitmaterialien
 
 [![Lizenz: MIT](https://img.shields.io/badge/Lizenz-MIT-blue.svg)](LICENSE)
-[![Website zum Buch](https://img.shields.io/badge/Companion%20Site-alexloth.com-blue)](https://alexloth.com/tableau-buch)
+[![Website zum Buch](https://img.shields.io/badge/Companion%20Site-alexloth.com-blue)](https://alexloth.com/tableau-buch/)
 [![Follow on X](https://img.shields.io/twitter/follow/DasBuch?style=social)](https://x.com/DasBuch)
 
 > **Offizielle Beispieldateien, Datensätze und Ressourcen zum Bestseller *Datenvisualisierung mit Tableau*.**   
@@ -10,6 +10,8 @@
 <p align="center">
   <img src="https://alexloth.com/wp-content/uploads/2021/07/Tableau-Buch-2.-Auflage-Cover-3D.png" alt="Book cover: Datenvisualisierung mit Tableau by Alexander Loth" width="420" />
 </p>
+
+**Buch kaufen:** [mitp](https://www.mitp.de/IT-WEB/Datenvisualisierung-mit-Tableau.html) · [Amazon](https://www.amazon.de/Datenvisualisierung-mit-Tableau-Datenaufbereitung-Professional/dp/3747503896) · Mehr Infos auf der [Buch-Website](https://alexloth.com/tableau-buch/)
 
 ---
 
@@ -25,7 +27,15 @@ Die Zielgruppe umfasst:
 
 Das Buch erfordert **keine besonderen mathematischen Kenntnisse oder Programmiererfahrung**. Die Lernkurve ist bewusst steil gehalten: von den Grundlagen bis hin zu komplexen Analysen und interaktiven Dashboards.
 
-🔗 Mehr Infos: [alexloth.com/tableau-buch](https://alexloth.com/tableau-buch)
+🔗 Mehr Infos: [alexloth.com/tableau-buch](https://alexloth.com/tableau-buch/)
+
+---
+
+## 🎁 Exklusive Partner-Angebote
+
+Als Leser dieses Buches erhalten Sie Zugang zu exklusiven Vorteilen und Angeboten.
+
+🔗 **[Zu den Partner-Angeboten](PARTNER_ANGEBOTE.md)**
 
 ---
 
@@ -112,6 +122,6 @@ Diese Materialien stehen unter der [MIT-Lizenz](LICENSE).
 
 ---
 
-⭐️ **Tipp:** Wenn Ihnen diese Materialien helfen, geben Sie bitte dem Repository einen **Star** auf GitHub!
+⭐️ **Tipp:** Wenn Ihnen diese Materialien helfen, geben Sie bitte dem Repository einen **Stern** auf GitHub!
 
-Viel Erfolg beim Visualisieren Ihrer Daten 🚀
+**Vielen Dank**, dass Sie *Datenvisualisierung mit Tableau* lesen und diese Ressourcen nutzen. Viel Erfolg beim Visualisieren Ihrer Daten!
