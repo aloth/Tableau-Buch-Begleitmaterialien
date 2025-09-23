@@ -1,6 +1,6 @@
 # Datenvisualisierung mit Tableau – Offizielle Begleitmaterialien
 
-[![Lizenz: MIT](https://img.shields.io/badge/Lizenz-MIT-blue.svg)](LICENSE)
+[![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 [![Website zum Buch](https://img.shields.io/badge/Companion%20Site-alexloth.com-blue)](https://alexloth.com/tableau-buch/)
 [![Follow on X](https://img.shields.io/twitter/follow/DasBuch?style=social)](https://x.com/DasBuch)
 
@@ -82,7 +82,6 @@ Dieses Repository enthält alle Materialien, die im Buch verwendet werden:
 Fragen, Fehler oder Ideen? Ihre Mithilfe ist willkommen!  
 
 - 👉 [Neues Issue erstellen](https://github.com/aloth/Tableau-Buch-Begleitmaterialien/issues)  
-- 👉 Pull Requests für Verbesserungen einreichen  
 
 ---
 
@@ -118,7 +117,9 @@ Er berät Unternehmen und Organisationen bei ihrer digitalen Transformation und 
 
 ## 🔗 Lizenz
 
-Diese Materialien stehen unter der [MIT-Lizenz](LICENSE).
+Diese Arbeit unterliegt den Bestimmungen einer [Creative Commons Attribution 4.0 International License](LICENSE).
+
+[![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](LICENSE).
 
 ---
 
