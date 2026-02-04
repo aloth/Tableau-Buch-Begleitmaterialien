@@ -90,17 +90,18 @@ Fragen, Fehler oder Ideen? Ihre Mithilfe ist willkommen!
 Falls Sie Inhalte aus *Datenvisualisierung mit Tableau* in wissenschaftlichen Arbeiten verwenden, nutzen Sie bitte folgenden BibTeX-Eintrag:
 
 ```bibtex
-@book{loth_2021_tableau,
-	title        = {Datenvisualisierung mit Tableau: Inklusive Datenaufbereitung mit Tableau Prep Builder},
-	shorttitle   = {Datenvisualisierung mit Tableau},
-	author       = {Loth, Alexander},
-	year         = {2021},
-	publisher    = {MITP-Verlags GmbH \& Co. KG},
-	isbn         = {978-3-7475-0389-8},
-	url          = {https://alexloth.com/tableau-buch/},
-	edition      = {2}
+@book{loth2021tableaude,
+  title      = {Datenvisualisierung mit Tableau},
+  shorttitle = {Tableau Datenvisualisierung},
+  author     = {Loth, Alexander},
+  year       = {2021},
+  edition    = {2},
+  publisher  = {mitp},
+  address    = {Frechen},
+  isbn       = {978-3-7475-0389-8},
+  url        = {https://alexloth.com/tableau-buch/}
 }
-````
+```
 
 ---
 

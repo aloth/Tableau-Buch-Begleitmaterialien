@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this book in your research, please cite it as below."
+type: book
+title: "Datenvisualisierung mit Tableau"
+authors:
+  - family-names: Loth
+    given-names: Alexander
+    orcid: https://orcid.org/0000-0003-4157-7557
+date-released: 2021-07-01
+year: 2021
+edition: 2
+publisher:
+  name: mitp
+  city: Frechen
+isbn: 978-3-7475-0389-8
+url: https://alexloth.com/tableau-buch/
+repository-code: https://github.com/aloth/Tableau-Buch-Begleitmaterialien
+keywords:
+  - Tableau
+  - data visualization
+  - visual analytics
+  - business intelligence
+license: CC-BY-4.0
