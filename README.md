@@ -79,9 +79,11 @@ Dieses Repository enthält alle Materialien, die im Buch verwendet werden:
 
 ## 👥 Mitwirken & Feedback
 
-Fragen, Fehler oder Ideen? Ihre Mithilfe ist willkommen!  
+Fragen, Fehler oder Ideen? Nutzen Sie unsere Issue-Vorlagen:
 
-- 👉 [Neues Issue erstellen](https://github.com/aloth/Tableau-Buch-Begleitmaterialien/issues)  
+- 📖 **[Erratum melden](https://github.com/aloth/Tableau-Buch-Begleitmaterialien/issues/new?template=erratum.yml)** — Fehler im Buch
+- ❓ **[Frage stellen](https://github.com/aloth/Tableau-Buch-Begleitmaterialien/issues/new?template=frage.yml)** — Verständnisfragen zu Kapiteln oder Beispielen
+- 💻 **[Code-Problem melden](https://github.com/aloth/Tableau-Buch-Begleitmaterialien/issues/new?template=code-problem.yml)** — Probleme mit dem Begleitmaterial  
 
 ---
 
