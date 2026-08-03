@@ -3,6 +3,7 @@
 [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 [![Website zum Buch](https://img.shields.io/badge/Companion%20Site-alexloth.com-blue)](https://alexloth.com/tableau-buch/)
 [![Follow on X](https://img.shields.io/twitter/follow/DasBuch?style=social)](https://x.com/DasBuch)
+[![Geodaten & Kartenanalysen](https://img.shields.io/badge/Geodaten_%26_Kartenanalysen-Kapitel_6-E97627)](kapitel06)
 
 > **Offizielle Beispieldateien, Datensätze und Ressourcen zum Bestseller *Datenvisualisierung mit Tableau*.**   
 > Alles, was Sie brauchen, um die Konzepte aus dem Buch direkt auszuprobieren.
