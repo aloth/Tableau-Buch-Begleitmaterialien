@@ -116,10 +116,27 @@ Falls Sie Inhalte aus *Datenvisualisierung mit Tableau* in wissenschaftlichen Ar
 Er berät Unternehmen und Organisationen bei ihrer digitalen Transformation und ist Autor mehrerer Fachbücher.
 
 [![Website](https://img.shields.io/badge/Website-alexloth.com-blue?style=flat-square)](https://alexloth.com/)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--9327--6865-green?style=flat-square&logo=orcid)](https://orcid.org/0009-0003-9327-6865)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aloth-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aloth/)
 [![X (Twitter)](https://img.shields.io/badge/Follow-@xlth-black?style=flat-square&logo=x)](https://x.com/xlth)
 
 ---
+
+## 📚 Weitere Bücher des Autors
+
+Begleitmaterialien zu den übrigen Büchern:
+
+| Buch | Verlag |
+|:---|:---|
+| [Content Creation mit generativer KI](https://github.com/aloth/Generative-KI-Buch-Begleitmaterialien) | mitp 2026 |
+| [KI für Content Creation](https://github.com/aloth/KI-Buch-Begleitmaterialien) | mitp 2024 |
+| [Microsoft Power BI: Das Praxisbuch](https://github.com/aloth/Power-BI-Fabric-Copilot-Buch-Begleitmaterialien) | mitp 2026 |
+| [Datenvisualisierung mit Power BI](https://github.com/aloth/Power-BI-Buch-Begleitmaterialien) | mitp 2022 |
+| [Visual Analytics with Tableau](https://github.com/aloth/tableau-book-resources) | Wiley 2019 |
+| [Teach Yourself VISUALLY Power BI](https://github.com/aloth/power-bi-book-resources) | Wiley 2023 |
+| [Decisively Digital](https://github.com/aloth/decisively-digital-book-resources) | Wiley 2021 |
+
+**Hinweis:** [Visual Analytics with Tableau](https://github.com/aloth/tableau-book-resources) ist der englischsprachiges Tableau-Buch.
 
 ## 🔗 Lizenz
 
