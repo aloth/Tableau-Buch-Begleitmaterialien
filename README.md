@@ -94,15 +94,17 @@ Falls Sie Inhalte aus *Datenvisualisierung mit Tableau* in wissenschaftlichen Ar
 
 ```bibtex
 @book{loth2021tableaude,
-  title      = {Datenvisualisierung mit Tableau},
+  title      = {Datenvisualisierung mit {Tableau}},
   shorttitle = {Tableau Datenvisualisierung},
   author     = {Loth, Alexander},
   year       = {2021},
   edition    = {2},
   publisher  = {mitp},
-  address    = {Frechen},
+  address    = {Frechen, Germany},
   isbn       = {978-3-7475-0389-8},
-  url        = {https://alexloth.com/tableau-buch/}
+  langid     = {german},
+  url        = {https://alexloth.com/tableau-buch/},
+  urldate    = {2026-08-25}
 }
 ```
 
